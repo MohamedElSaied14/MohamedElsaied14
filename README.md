@@ -1,11 +1,20 @@
-<h1 align="center">ITI Trainee</h1>
+<div align="center">
 
-<h3 align="center">A passionate Software Engineer from Alexandria, Egypt</h3>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohamed+Elsaied+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;ITI+Trainee+%7C+Full+Stack+Track+%F0%9F%8E%93;Based+in+Alexandria%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 
-<p align="center">
-  🎓 ITI Trainee &nbsp;|&nbsp; Open Source Department &nbsp;|&nbsp; Full Stack Track
-</p>
+<br/>
 
+<h3>A passionate Software Engineer from Alexandria, Egypt</h3>
+<h4>🎓 ITI Trainee &nbsp;|&nbsp; Open Source Department &nbsp;|&nbsp; Full Stack Track</h4>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<br/>
 ---
 
 ## 🧑‍💻 About Me
@@ -21,7 +30,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-elsabagh14" target="_blank">
+  <a href="https://linkedin.com/in/mohamedelsabagh14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mohamedelsaied1470@gmail.com">
